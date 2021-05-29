@@ -1,0 +1,7 @@
+{
+    "cmake.buildEnvironment" : {
+        "PKG_CONFIG_PATH" : "/opt/sr_macosx/lib/pkgconfig:/usr/local/Cellar/glibmm/2.68.1/lib/pkgconfig:/usr/local/Cellar/python@3.9/3.9.5/lib/pkgconfig",
+        "Qt5_DIR" : "/usr/local/opt/qt5/lib/cmake/Qt5"
+    },
+    "cmake.parallelJobs": 8
+}
